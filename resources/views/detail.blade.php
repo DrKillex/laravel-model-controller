@@ -3,7 +3,7 @@
 @section('page-title')
     dettagli {{$movie->title}}
 @endsection
-
+{{-- rappresentazione dei dettagli del film --}}
 @section('main')
 <main>
     <div class="container py-4">

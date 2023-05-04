@@ -3,7 +3,7 @@
 @section('page-title')
     MovieDB
 @endsection
-
+{{-- rappresentazione di tutti i film --}}
 @section('main')
 <div class="container py-4">
     <div class="row">
